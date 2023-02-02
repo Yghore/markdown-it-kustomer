@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-kustomer",
+  "version": "0.0.1",
+  "description": "markdown-it plugin for customer markdown element (for exemple : \\pagebreak => <div style=\"page-break...\"></div>)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node .\\test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/yghore/markdown-it-kustomer"
+  },
+  "keywords": [
+    "markdown-it-plugins",
+    "markdown",
+    "it",
+    "customer",
+    "element",
+    "markdown"
+  ],
+  "author": "Yghore",
+  "license": "Apache-2.0",
+
+  "dependencies": {
+    "markdown-it": "^13.0.1"
+  }
+
+}
